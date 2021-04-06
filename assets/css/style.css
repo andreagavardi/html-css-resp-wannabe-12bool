@@ -91,6 +91,9 @@ img {
   img {
     height: 120px;
   }
+  #why .row img {
+    padding: 10px;
+  }
 }
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .row {
@@ -103,10 +106,10 @@ img {
   }
   #lezioni,
   #why {
-    background-color: #9af74d;
+    background-color: #9af74d9a;
   }
   #steps {
-    background-color: #428bca;
+    background-color: #428bca75;
   }
   img {
     height: 150px;
